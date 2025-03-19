@@ -37,4 +37,3 @@
 ## Авторы
 
 - Aleksandr Blinov
-
